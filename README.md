@@ -5,4 +5,4 @@ The original request example given by the API in their website is in PHP but som
 
 For use you just have to put your API KEY and change the domain you want. 
 
-The right way to do it is using the python urlencode to the domains but I faced some problems with it. When I use urlencode the responde i receive is that no domains were given. So if anyone fix it, feel free to commit. I would be thankful.
+The right way to do this is using the python urlencode to the domains but I faced some problems with it. When I use urlencode the response I receive is that no domains were given. So if anyone can fix it, feel free to commit. I would be thankful.
